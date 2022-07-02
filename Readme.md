@@ -11,6 +11,8 @@ czy będzie on odpowiednio przewidywać wyniki. Następnym etapem będzie
 wykrywanie dryfu danych oraz trenowanie modelu na nowych danych
 treningowych.
 
+http://dataiku.pjwstk.edu.pl:11000/workspaces/ASI_12C/ASI_4/DASHBOARD/ceQxOTO
+
 Zestaw danych
 
 Wykorzystany zestaw danych to zbiór podstawowych informacji o danej grze
